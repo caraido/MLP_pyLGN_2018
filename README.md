@@ -1,7 +1,7 @@
 # MLP_pyLGN_2018
 a machine learning project for testifying based on modified pylgn simulator
 
-NOTICE: ALL EXECUTABLE FILES ARE IN /pylgn
+NOTICE: ALL EXECUTABLE FILES ARE IN ~/pylgn
 
 ## pyLGN: a simulator of neural activity in the early part of the visual system 
 
