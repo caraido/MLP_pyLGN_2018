@@ -1,0 +1,142 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1543762614698">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1543753672628">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm/pylgn/pylgn/pylgn/kernels/temporal.py" timestamp="1539684327172">
+        <mark key="[" line="157" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm/pylgn/pylgn/pylgn/core.py" timestamp="1543761233236">
+        <mark key="[" line="95" column="27" />
+        <mark key="]" line="96" column="18" />
+        <mark key="." line="96" column="18" />
+      </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/hyperopt/base.py" timestamp="1539674996403">
+        <mark key="[" line="599" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm/pylgn/pylgn/pylgn/visualization.py" timestamp="1542964130914">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm/pylgn/pylgn/pylgn/temp.py" timestamp="1541573989560">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm/pylgn/pylgn/pylgn/patchSize.py" timestamp="1542629453269">
+        <mark key="[" line="54" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm/pylgn/pylgn/pylgn/generate.py" timestamp="1543762575034">
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm/pylgn/pylgn/pylgn/testFunction.py" timestamp="1543762105181">
+        <mark key="[" line="242" column="7" />
+        <mark key="]" line="242" column="7" />
+        <mark key="." line="242" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm/pylgn/pylgn/pylgn/paraCompare.py" timestamp="1542964063685">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm/pylgn/pylgn/pylgn/SMScomponent.py" timestamp="1539927201868">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="162" column="24" filename="$USER_HOME$/Documents/pycharm/pylgn/pylgn/pylgn/testFunction.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">IHByaW50KCd0aGUgc2hhcGUgb2YgdGhlIGNlbGwnKQogICAgICAgIHByaW50KGNlbGwuc2hhcGUp</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgcHJpbnQobWF0cml4MS5zaGFwZSkKICAgICAgICBwcmludChtYXRyaXgyLnNoYXBlKQ==</text>
+      </register>
+      <register name="3" type="4">
+        <text>import sys
+sys.path.append('/home/aistation/Documents/pycharm/pylgn/data/')
+print(sys.path)</text>
+      </register>
+      <register name="4" type="4">
+        <text>if self.cellType is 'offsta' or 'onsta':
+            self.contrast = 10
+            self.time = 9
+        else:
+            self.contrast = -10
+            self.time = 9.6</text>
+      </register>
+      <register name="5" type="4">
+        <text>message = client.messages.create(
+    from_='+17575449618',
+    to='+8615721550559',
+    body='your simulation is finished! And it took '+str(now/3600)+' hours.'
+)
+
+print(message.sid)</text>
+      </register>
+      <register name="6" type="4">
+        <text>args = list(args)
+        args.append(self.patchSize)
+        print(args)</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgZGVmIG1ha2VfYXJycmF5KHNlbGYsc2l6ZSk6CiAgICAgICAgJycnCiAgICAgICAgOnBhcmFtIGFyZ3M6IGEgdHVwbGUgb2YgMyBkaWN0aW9uYXJpZXMgKHBhcmFEaWN0X3RwLCBwYXJhRGljdF9zcCwgcGFyYURpY3Rfd2VpZ2h0KQogICAgICAgIDpyZXR1cm46IGEgbnVtcHkgbWF0cml4CiAgICAgICAgJycn</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">bXR4XzIgPSBvcC5tYWtlX3NpbWlsYXIyCiAgICBtdHhfMyA9IG9wLm1ha2Vfc2ltaWxhcjMKICAgIHRyaWFsczEgPSBUcmlhbHMoKQogICAgYmVzdDEgPSBmbWluKGNvcnIsIHNwYWNlLCB0cGUuc3VnZ2VzdCwgbWF4X2V2YWxzPW1heF9ldmFscywgdHJpYWxzPXRyaWFsczEpCiAg</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIHRyaWFsczMgPSBUcmlhbHMoKQogICAgYmVzdDMgPSBmbWluKGNvcnIsIHNwYWNlLCB0cGUuc3VnZ2VzdCwgbWF4X2V2YWxzPW1heF9ldmFscywgdHJpYWxzPXRyaWFsczMpCiAgICBmaWxlMzEgPSBvcGVuKCcvaG9tZS9haXN0YXRpb24vRG9jdW1lbnRzL3B5Y2hhcm0vcHlsZ24vZGF0YS90cmlhbCcgKyBzdHIodHJpYWxudW0pICsgJ19tZXRob2RfbXR4Ml90cmlhbF8nICsgc3RyKAogICAgICAgIGNlbGxUeXBlKSArICdfaW5kZXhfJyArIHN0cihpbmRleCkgKyAnX2xvb3BfJyArIHN0cihtYXhfZXZhbHMpICsgJy5waycsICd3YicpCiAgICBmaWxlMzIgPSBvcGVuKCcvaG9tZS9haXN0YXRpb24vRG9jdW1lbnRzL3B5Y2hhcm0vcHlsZ24vZGF0YS90cmlhbCcgKyBzdHIodHJpYWxudW0pICsgJ19tZXRob2RfbXR4Ml9iZXN0XycgKyBzdHIoCiAgICAgICAgY2VsbFR5cGUpICsgJ19pbmRleF8nICsgc3RyKGluZGV4KSArICdfbG9vcF8nICsgc3RyKG1heF9ldmFscykgKyAnLnBrJywgJ3diJykKICAgIHBpY2tsZS5kdW1wKHRyaWFsczMsIGZpbGUzMSkKICAgIHBpY2tsZS5kdW1wKGJlc3QzLCBmaWxlMzIpCgogICAgdHJpYWxzNCA9IFRyaWFscygpCiAgICBiZXN0NCA9IGZtaW4oY29yciwgc3BhY2UsIHRwZS5zdWdnZXN0LCBtYXhfZXZhbHM9bWF4X2V2YWxzLCB0cmlhbHM9dHJpYWxzNCkKICAgIGZpbGU0MSA9IG9wZW4oJy9ob21lL2Fpc3RhdGlvbi9Eb2N1bWVudHMvcHljaGFybS9weWxnbi9kYXRhL3RyaWFsJyArIHN0cih0cmlhbG51bSkgKyAnX21ldGhvZF9tdHgzX3RyaWFsXycgKyBzdHIoCiAgICAgICAgY2VsbFR5cGUpICsgJ19pbmRleF8nICsgc3RyKGluZGV4KSArICdfbG9vcF8nICsgc3RyKG1heF9ldmFscykgKyAnLnBrJywgJ3diJykKICAgIGZpbGU0MiA9IG9wZW4oJy9ob21lL2Fpc3RhdGlvbi9Eb2N1bWVudHMvcHljaGFybS9weWxnbi9kYXRhL3RyaWFsJyArIHN0cih0cmlhbG51bSkgKyAnX21ldGhvZF9tdHgzX2Jlc3RfJyArIHN0cigKICAgICAgICBjZWxsVHlwZSkgKyAnX2luZGV4XycgKyBzdHIoaW5kZXgpICsgJ19sb29wXycgKyBzdHIobWF4X2V2YWxzKSArICcucGsnLCAnd2InKQogICAgcGlja2xlLmR1bXAodHJpYWxzNCwgZmlsZTQxKQogICAgcGlja2xlLmR1bXAoYmVzdDQsIGZpbGU0Mik=</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwzMDBcPg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDwzMDBcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDwzMDBcPg==</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDwvXD4=</entry>
+        <entry encoding="base64">XDwzMDBcPg==</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
