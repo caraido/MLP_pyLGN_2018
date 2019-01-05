@@ -1,6 +1,8 @@
 # MLP_pyLGN_2018
 a machine learning project for testifying based on modified pylgn simulator
 
+## NOTICE: ALL EXECUTABLE FILES ARE IN /pylgn
+
 ## pyLGN: a simulator of neural activity in the early part of the visual system 
 
 pyLGN is a visual stimulus-driven simulator of spatiotemporal cell responses in the early part of the visual system consisting of the retina, lateral geniculate nucleus (LGN) and primary visual cortex. The simulator is based on a mechanistic, firing rate model that incorporates the influence of thalamocortical loops, in addition to the feedforward responses. The advantage of the simulator lies in its computational and conceptual ease, allowing for fast and comprehensive exploration of various scenarios for the organization of the LGN circuit.
